@@ -1,0 +1,45 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1">
+<metadata>
+Created by FontForge 20170731 at Sat Nov 11 03:23:58 2023
+ By Aleksey,,,
+</metadata>
+<defs>
+<font id="icomoon" horiz-adv-x="1024" >
+  <font-face 
+    font-family="icomoon"
+    font-weight="400"
+    font-stretch="normal"
+    units-per-em="1024"
+    panose-1="0 0 0 0 0 0 0 0 0 0"
+    ascent="960"
+    descent="-64"
+    bbox="0 66 1024 830"
+    underline-thickness="0"
+    underline-position="0"
+    unicode-range="U+0001-FFFD"
+  />
+<missing-glyph 
+ />
+    <glyph glyph-name=".notdef" unicode="&#xfffd;" 
+ />
+    <glyph glyph-name="glyph1" horiz-adv-x="0" 
+d="M0 0v0v0v0z" />
+    <glyph glyph-name="glyph1" horiz-adv-x="0" 
+d="M0 0v0v0v0z" />
+    <glyph glyph-name="nonmarkingreturn" horiz-adv-x="341" 
+ />
+    <glyph glyph-name="uni0001" horiz-adv-x="0" 
+d="M0 0v0v0v0z" />
+    <glyph glyph-name="space" unicode=" " horiz-adv-x="512" 
+d="M0 0v0v0v0z" />
+    <glyph glyph-name="uniE922" unicode="&#xe922;" 
+d="M661 448q0 -62 -43.5 -105.5t-105.5 -43.5t-105.5 43.5t-43.5 105.5t43.5 105.5t105.5 43.5t105.5 -43.5t43.5 -105.5zM875 597q-61 0 -104.5 -43.5t-43.5 -105.5t43.5 -105.5t104.5 -43.5q62 0 105.5 43.5t43.5 105.5t-43.5 105.5t-105.5 43.5zM149 597
+q-62 0 -105.5 -43.5t-43.5 -105.5t43.5 -105.5t105.5 -43.5q61 0 104.5 43.5t43.5 105.5t-43.5 105.5t-104.5 43.5z" />
+    <glyph glyph-name="uniE923" unicode="&#xe923;" horiz-adv-x="1008" 
+d="M465 156l-449 452q-16 16 -16 39.5t16 39.5l53 53q16 16 39 16t39 -16l357 -358l357 358q16 16 39 16t39 -16l53 -53q16 -16 16 -39.5t-16 -39.5l-449 -452q-16 -16 -39 -16t-39 16v0z" />
+    <glyph glyph-name="uniE924" unicode="&#xe924;" 
+d="M348 81l-333 333q-15 15 -15 36t15 36l72 73q15 15 36.5 15t36.5 -15l224 -224l480 480q15 15 36.5 15t36.5 -15l72 -73q15 -15 15 -36t-15 -36l-589 -589q-15 -15 -36 -15t-36 15v0z" />
+  </font>
+</defs></svg>
